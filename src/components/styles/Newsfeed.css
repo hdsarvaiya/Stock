@@ -1,0 +1,26 @@
+.news-feed {
+    padding: 1rem;
+  }
+  
+  .news-feed h2 {
+    margin-bottom: 1rem;
+  }
+  
+  .news-feed ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .news-feed li {
+    margin-bottom: 0.5rem;
+  }
+  
+  .news-feed a {
+    color: #1e90ff;
+    text-decoration: none;
+  }
+  
+  .news-feed a:hover {
+    text-decoration: underline;
+  }
+  

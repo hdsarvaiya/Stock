@@ -1,0 +1,19 @@
+.market-highlights {
+    padding: 1rem;
+    background-color: #f9f9f9;
+  }
+  
+  .market-highlights h2 {
+    margin-bottom: 1rem;
+  }
+  
+  .market-highlights ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .market-highlights li {
+    margin-bottom: 0.5rem;
+    font-size: 1.1rem;
+  }
+  

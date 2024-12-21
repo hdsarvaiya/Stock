@@ -1,0 +1,32 @@
+.stock-simulator {
+    padding: 1rem;
+    background-color: #f9f9f9;
+  }
+  
+  .stock-simulator h2 {
+    margin-bottom: 1rem;
+  }
+  
+  .stock-simulator input {
+    padding: 0.5rem;
+    margin: 0.5rem 0;
+  }
+  
+  .stock-simulator button {
+    padding: 0.7rem 1rem;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .stock-simulator button:hover {
+    background-color: #0056b3;
+  }
+  
+  .result {
+    margin-top: 1rem;
+    font-size: 1.1rem;
+    color: green;
+  }
+  
